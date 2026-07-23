@@ -1,0 +1,14 @@
+{
+  "id": "com.yourname.featured",
+  "name": "Featured",
+  "version": "1.0.0",
+  "developer": "amazonplusalts",
+  "description": "A simple Geode mod.",
+  "dependencies": [
+    {
+      "id": "geode-sdk",
+      "version": ">=1.0.0"
+    }
+  ],
+  "geode": "1.0.0"
+}
