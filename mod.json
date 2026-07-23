@@ -13,3 +13,12 @@
   ],
   "geode": "5.7.1"
 }
+"repository": "https://github.com/Gabriel19756/Featured-",
+"support": "https://discord.gg/yourserver",
+"tags": ["fun", "utility", "featured"]
+"patches": [
+  {
+    "name": "MyPatch",
+    "path": "patches/my_patch.geopatch"
+  }
+]
